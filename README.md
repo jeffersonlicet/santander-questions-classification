@@ -1,4 +1,8 @@
-# Santander Questions Classification Contest 2020 |🏅 TOP 3 - 0.86639
+# Santander Questions Classification 2020 | 🏅 TOP 3 - 0.86639
+
+## Solution:
+
+![](https://camo.githubusercontent.com/c814494ff12e6337a262bf025f01d3d8eefb3725/68747470733a2f2f692e696d6775722e636f6d2f56744b6437704b2e706e67)
 
 Indicaciones para entrenar los modelos:
 
