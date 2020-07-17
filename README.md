@@ -1,4 +1,5 @@
-# santander-questions-classification
+# Santander Questions Classification Contest 2020 |🏅 TOP 3 - 0.86639
+
 Indicaciones para entrenar los modelos:
 
 Se adjuntan 4 archivos:
@@ -18,7 +19,7 @@ Una vez finalizado el entrenamiento, que toma algo más de una hora, ambos noteb
 descargar archivos, en caso de que no posean permisos para descargarlos por parte del browser puede
 intentar descargarlos manualmente.
 
-# 3: Ensamblar la solucion
+# 3: Ensamblar la solución
 Archivos que deben estar descargados y en el mismo directorio:
 * test_ids.npy Contiene los ids de los casos de testing
 * labels.npy Contiene los nombres de las clases mapeadas a indices
