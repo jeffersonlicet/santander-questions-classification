@@ -1,6 +1,8 @@
 # Santander Questions Classification 2020
 ## 🏅 TOP 3 - 0.86639
 
+[![HitCount](http://hits.dwyl.com/jeffersonlicet/santander-questions-classification.svg)](http://hits.dwyl.com/jeffersonlicet/santander-questions-classification)
+
 ## Exploración de datos y explicación de la solución:
 https://github.com/jeffersonlicet/santander-questions-classification/blob/master/Informe.ipynb
 
